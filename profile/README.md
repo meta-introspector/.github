@@ -1,6 +1,8 @@
 ## Hi there 👋
+🙋‍♀️ The meta introspector is a continuation of a long term research project that started with the idea of using the gcc compiler to extract knowledge about your code as it is being compiled. It has morphed into a meta meme.
 
-<!--
+<!--🙋‍♀️ A short introduction - what is your organization all about?
+
 
 **Here are some ideas to get you started:**
 
