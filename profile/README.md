@@ -1,5 +1,6 @@
 ## Hi there 👋
 🙋‍♀️ The meta introspector is a continuation of a long term research project that started with the idea of using the gcc compiler to extract knowledge about your code as it is being compiled. It has morphed into a meta meme.
+Currently we are working on zero knowledge proofs of introspection, self modifying build systems, and using grants and tokens to implement win win partnerships with other projects. 
 
 <!--🙋‍♀️ A short introduction - what is your organization all about?
 
